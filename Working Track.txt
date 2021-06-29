@@ -1,0 +1,9 @@
+1- Make a Table Named: Todos
+	Columuns:
+		1- Title : String
+		2- Completed : boolean
+
+2- Model Named : Todo
+3- Migration Todo
+4- Routes
+5- Controller
